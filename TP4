@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <title>TP4 - Les conteneurs</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<div class="container">
+
+    <div class="box box1">
+        <img src="download.jfif" alt="Image 1">
+        <h2>L'intelligence artificielle</h2>
+        <p>machines imitent intelligence humaine automatiquement</p>
+        <button>Button 1</button>
+    </div>
+
+    <div class="box box2">
+        <img src="download (1).jfif" alt="Image 2">
+        <h2>Big Data</h2>
+        <p> analyse grandes quantités données complexes</p>
+        <button>Button 2</button>
+    </div>
+
+    <div class="box box3">
+        <img src="download (2).jfif" alt="Image 3">
+        <h2>Robotique </h2>
+        <p>conception robots automatisation tâches industrielles</p>
+        <button>Button 3</button>
+    </div>
+
+    <div class="box box4">
+        <img src="download (3).jfif" alt="Image 4">
+        <h2>Systèmes embarqués</h2>
+        <p>informatique intégrée appareils électroniques intelligents</p>
+        <button>Button 4</button>
+    </div>
+
+    <div class="box box5">
+        <img src="download (4).jfif" alt="Image 5">
+        <h2>Jeux vidéo</h2>
+        <p>création univers interactifs divertissement numérique</p>
+        <button>Button 5</button>
+    </div>
+
+    <div class="box box6">
+        <img src="download (5).jfif" alt="Image 6">
+        <h2>Réalité virtuelle</h2>
+        <p>immersion utilisateur environnement numérique simulé</p>
+        <button>Button 6</button>
+    </div>
+
+</div>
+
+</body>
+</html>
